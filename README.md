@@ -16,3 +16,7 @@ I customized the living hell out of the Discord Dark Matter theme, now its red a
 1. Open the .css file in some sort of text editor (Adobe Edge Code works fine)
 2. Copy and paste everything in that file into the custom css part of the discord settings
 3. Profit
+
+==TROUBLESHOOTING==
+-BACKGROUND-
+If the background isn't correct, turn on all plugins and turn them off again, im not sure why this works, but it does.
